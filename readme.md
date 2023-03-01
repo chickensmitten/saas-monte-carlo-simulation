@@ -2,7 +2,7 @@
 ## Intro
 ***The purpose of this google spreadsheet is to calculate the investability of a SaaS business through simulating/forecasting LTV and MIRR given the limited data available***. Refer to this [google spreadsheet link](https://docs.google.com/spreadsheets/d/1fi0_3GVi_LFZ3E5ynoDtYRgl3uqYvZzjntZNhyXtQb0/edit?usp=sharing)
 
-This is inspired by Douglas Hubbard's How to Measure Anything.
+This is inspired by Douglas Hubbard's How to Measure Anything. Credit goes to Andrew Chen for the Saas Metrics as well.
 
 ## How it works
 1. "Input Data" sheet denotes the variables and parameters of the Saas business. These variables should be standard across all Saas. The only thing that changes is the min and max value. Min and max value is derived through the "Calibration Exercise" chapter in How to Measure Anything.
