@@ -13,7 +13,7 @@ This is inspired by Douglas Hubbard's How to Measure Anything.
 
 ## Anatomy of Google Spreadsheet's App Script
 - Go to gscript through menu -> "Extensions" -> "App Script"
-- This is where gscript code is written
+- This is where gscript code is written. The [code](/gscript.js) can be found here too 
   ![gscript code](/public/code.png)
 - This is where tiggers can be initiated to run the code in the background
   ![Trigger Image 1](/public/trigger%201.png)
